@@ -25,9 +25,7 @@
                 <div class="box-body">
                   <table id="example1" class="table table-bordered table-striped">
                     <thead>
-                      <tr>
-                        <th width="20"></th>
-                        <th width="20">Foto</th>
+                      <tr>         
                         <th>Código</th>
                         <th>Produto</th>
                         <th>Modelos</th>
@@ -35,233 +33,265 @@
                         <th>Preço</th>
                       </tr>
                     </thead>
+
                     <tbody>
+                      <tr>                        
+                        <td>SE78946</td>
+                        <td>Base xyz</td>
+                        <td>Modelo 1</td>
+                        <td>40 ml</td>
+                        <td>58.50</td>
+                      </tr>
+                      
                       <tr>
-                        <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
-                        <td>SE78946</td>
-                        <td>Base xyz</td>
-                        <td>Modelo 1</td>
-                        <td>40 ml</td>
-                        <td>58.50</td>
-                      </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
                         <td>SE78946</td>
                         <td>Batom</td>
                         <td>Modelo 1</td>
                         <td>50g</td>
                         <td>15.80</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7B4460B78C-2A56-4905-AF88-521DA7031138%7D_img1.jpg" height="40"></td>
+
+                     <tr>
                         <td>SE78946</td>
                         <td>Batom</td>
                         <td>Modelo 1</td>
                         <td>50g</td>
                         <td>15.80</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>SE78946</td>
                         <td>Maquiagem</td>
                         <td>Modelo 3</td>
                         <td>60 ml</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7B4460B78C-2A56-4905-AF88-521DA7031138%7D_img1.jpg" height="40"></td>
+                     
+                     <tr>
                         <td>SE78946</td>
                         <td>Internet Explorer 7</td>
                         <td>Modelo XP SP2+</td>
                         <td>7</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                       <tr> 
                         <td>PH784</td>
                         <td>Maquiagem 1.0</td>
                         <td>Modelos 3</td>
                         <td>1.7</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>PH784</td>
                         <td>Maquiagem 1.5</td>
                         <td>Modelos 3</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>PH784</td>
                         <td>Maquiagem 2.0</td>
                         <td>Modelos 3</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7B4460B78C-2A56-4905-AF88-521DA7031138%7D_img1.jpg" height="40"></td>
+                     
+                     <tr>
                         <td>PH784</td>
                         <td>Maquiagem 3.0</td>
                         <td>Modelo 2k+ / Maquiagem.3+</td>
                         <td>1.9</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
                         <td>PH784</td>
                         <td>Camino 1.0</td>
                         <td>Maquiagem.2+</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>PH784</td>
                         <td>Camino 1.5</td>
                         <td>Maquiagem.3+</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7B4460B78C-2A56-4905-AF88-521DA7031138%7D_img1.jpg" height="40"></td>
+                     
+                     <tr>
                         <td>SE78946</td>
                         <td>Base xyz</td>
                         <td>Modelo 1</td>
                         <td>40 ml</td>
                         <td>58.50</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>SE78946</td>
                         <td>Batom</td>
                         <td>Modelo 1</td>
                         <td>50g</td>
                         <td>15.80</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>SE78946</td>
                         <td>Batom</td>
                         <td>Modelo 1</td>
                         <td>50g</td>
                         <td>15.80</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7B4460B78C-2A56-4905-AF88-521DA7031138%7D_img1.jpg" height="40"></td>
+                     
+                     <tr>
                         <td>SE78946</td>
                         <td>Maquiagem</td>
                         <td>Modelo 3</td>
                         <td>60 ml</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>SE78946</td>
                         <td>Internet Explorer 7</td>
                         <td>Modelo XP SP2+</td>
                         <td>7</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                       <tr>
                         <td>PH784</td>
                         <td>Maquiagem 1.0</td>
                         <td>Modelos 3</td>
                         <td>1.7</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                       <tr>
                         <td>PH784</td>
                         <td>Maquiagem 1.5</td>
                         <td>Modelos 3</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>PH784</td>
                         <td>Maquiagem 2.0</td>
                         <td>Modelos 3</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>PH784</td>
                         <td>Maquiagem 3.0</td>
                         <td>Modelo 2k+ / Maquiagem.3+</td>
                         <td>1.9</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>PH784</td>
                         <td>Camino 1.0</td>
                         <td>Maquiagem.2+</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>PH784</td>
                         <td>Camino 1.5</td>
                         <td>Maquiagem.3+</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+
+                      <tr>
                         <td>SE78946</td>
                         <td>Base xyz</td>
                         <td>Modelo 1</td>
                         <td>40 ml</td>
                         <td>58.50</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>SE78946</td>
                         <td>Batom</td>
                         <td>Modelo 1</td>
                         <td>50g</td>
                         <td>15.80</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>SE78946</td>
                         <td>Batom</td>
                         <td>Modelo 1</td>
                         <td>50g</td>
                         <td>15.80</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>SE78946</td>
                         <td>Maquiagem</td>
                         <td>Modelo 3</td>
                         <td>60 ml</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>SE78946</td>
                         <td>Internet Explorer 7</td>
                         <td>Modelo XP SP2+</td>
                         <td>7</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>PH784</td>
                         <td>Maquiagem 1.0</td>
                         <td>Modelos 3</td>
                         <td>1.7</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>PH784</td>
                         <td>Maquiagem 1.5</td>
                         <td>Modelos 3</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>PH784</td>
                         <td>Maquiagem 2.0</td>
                         <td>Modelos 3</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>
                         <td>PH784</td>
                         <td>Maquiagem 3.0</td>
                         <td>Modelo 2k+ / Maquiagem.3+</td>
                         <td>1.9</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>                      
                         <td>PH784</td>
                         <td>Camino 1.0</td>
                         <td>Maquiagem.2+</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
-                      <td><a href="meus-produtos.php"><span class="glyphicon glyphicon-pencil"></span></a></td><td><img src="http://imagens.sephora.com.br/%7BCEEACC69-74A1-4531-BC96-DEEC7B134DA9%7D_Haute-and-Naughty-Lash_60px.jpg" height="40"></td>
+                      
+                      <tr>                      
                         <td>PH784</td>
                         <td>Camino 1.5</td>
                         <td>Maquiagem.3+</td>

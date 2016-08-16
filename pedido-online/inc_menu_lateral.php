@@ -14,22 +14,29 @@
 
           <li class="treeview active">
               <a href="#">
-                <i class="fa fa-th"></i> <span>Pedidos</span>
+                <i class="fa fa-th"></i> <span>Solicitações</span>
                 <i class="fa fa-angle-left pull-right"></i>
               </a>
               <ul class="treeview-menu">
-                <li><a href="criar-pedido.php"><i class="fa fa-circle-o"></i>Criar Pedido</a></li>
-                <li><a href="meus-pedidos.php"><i class="fa fa-circle-o"></i>Meus Pedidos</a></li>
+                <li><a href="criar-pedido.php"><i class="fa fa-circle-o"></i>Criar Solicitação</a></li>
+                <li><a href="meus-pedidos.php"><i class="fa fa-circle-o"></i>Minhas Solicitações</a></li>
 
               </ul>
             </li>
 
 
 
-            <li class="treeview">
+            <li class="treeview active">
               <a href="modelos-etiquetas.php">
-                <i class="fa fa-th"></i> <span>Modelos de Etiquetas</span>
+                <i class="fa fa-th"></i> <span>Etiquetas</span>
+               <i class="fa fa-angle-left pull-right"></i>
               </a>
+              <ul class="treeview-menu">
+              <li><a href="criar-modelo.php"><i class="fa fa-circle-o"></i>Cadastrar Modelo</a></li>
+                <li><a href="meus-modelos.php"><i class="fa fa-circle-o"></i>Meus Modelos</a></li>
+                <li><a href="modelos-aprovacao.php"><i class="fa fa-circle-o"></i>Aprovação</a></li>
+
+              </ul>
             </li>
 
 
