@@ -9,10 +9,10 @@
 
        
   <section class="content-header">
-    <h1>Meus Produtos<small> - Pedido Online</small>
+    <h1>Criar Produto<small> - Pedido Online</small>
     </h1>
     <ol class="breadcrumb">
-      <li><a href="#"><i class="fa fa-dashboard"></i> Criar</a></li>
+      <li><a href="#"><i class="fa fa-dashboard"></i> Criar Produto</a></li>
       <li class="active">Pedido Online</li>
     </ol>
   </section>
@@ -20,11 +20,6 @@
   <section class="content">
 
   <div class="box">
-    <div class="box-header with-border">
-      <h3 class="box-title">Cadastrar Produto</h3>
-      
-    </div>
-
 
     <div class="box-body">
         <div class="row"> 
@@ -57,7 +52,12 @@
               <div class="col-md-3">
                   <div class="form-group">
                       <label>Marca</label>
-                      <input type="text" class="form-control" value="" />
+                      <select class="form-control select2" style="width: 100%;">
+                          <option selected="selected">Selecione</option>
+                          <option>Marca 1</option>
+                          <option>Marca 2</option>
+                          <option>Marca 3</option>
+                      </select>
                    </div><!-- /.form-group -->
               </div><!-- /.col --> 
 

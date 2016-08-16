@@ -9,10 +9,10 @@
 
        
   <section class="content-header">
-    <h1>Criar <small>- Pedido Online</small>
+    <h1>Criar Solicitação <small>- Pedido Online</small>
     </h1>
     <ol class="breadcrumb">
-      <li><a href="#"><i class="fa fa-dashboard"></i> Criar</a></li>
+      <li><a href="#"><i class="fa fa-dashboard"></i> Criar Solicitação</a></li>
       <li class="active">Pedido Online</li>
     </ol>
   </section>
@@ -23,13 +23,12 @@
 
 
   <div class="box">
-    <div class="box-header with-border">
-      <h3 class="box-title">Criar Solicitação</h3>
+    <!--<div class="box-header with-border">
       <div class="box-tools pull-right">
         <button class="btn btn-box-tool" data-widget="collapse" data-toggle="tooltip" title="Collapse"><i class="fa fa-minus"></i></button>
         <button class="btn btn-box-tool" data-widget="remove" data-toggle="tooltip" title="Remove"><i class="fa fa-times"></i></button>
       </div>
-    </div>
+    </div> -->
     <div class="box-body">
         <div class="row">
                       

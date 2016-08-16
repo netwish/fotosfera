@@ -7,10 +7,10 @@
 
         <section class="content-header">
           <h1>
-            Meus Modelos
+            Aprovação de Modelos
           </h1>
           <ol class="breadcrumb">
-            <li><a href="#"><i class="fa fa-dashboard"></i> Meus Modeleos</a></li>
+            <li><a href="#"><i class="fa fa-dashboard"></i> Aprovação de Modelos </a></li>
           </ol>
         </section>
 
@@ -38,7 +38,7 @@
                   
                   
                   <div class="conteudo timeline-body" style="display:none">
-                  <strong>Data do Pedido:</strong> 10/08/2016 <br>
+                  <strong>Data da Solicitação:</strong> 10/08/2016 <br>
                   <strong>Entrega:</strong> Av Prof Noé Azevedo, 208, cj 61<br>
                   <img src="images/exemplo.jpg" class="img-responsive" height="150"> </div>
                    
