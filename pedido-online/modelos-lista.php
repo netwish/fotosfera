@@ -1,152 +1,230 @@
 <?php include 'inc_topo.php' ?>
 
+ <div class="content-wrapper">
 
 
-      <div class="content-wrapper">
-
-
-        <section class="content-header">
+     <section class="content-header">
           <h1>
-            Meus Modelos
+             Meus Modelos
           </h1>
           <ol class="breadcrumb">
-            <li><a href="#"><i class="fa fa-dashboard"></i> Meus Modeleos</a></li>
+            <li><a href="#"><i class="fa fa-dashboard"></i>  Meus Modelos</a></li>
           </ol>
         </section>
 
-       
+
+        <!-- Main content -->
         <section class="content">
-         
-          <ul class="timeline"> 
+          <div class="row">
+            <div class="col-xs-12">
+              
 
-              <!-- timeline time label -->
-              <li class="time-label">
-                  <span class="bg-black">
-                      05 Agosto
-                  </span>
-              </li>
-              <!-- /.timeline-label -->
+              <div class="box">
+                <div class="box-body">
+                  <table id="example1" class="table table-bordered table-striped">
+                    <thead>
+                      <tr> 
+                        <th></th>        
+                        <th>Código</th>
+                        <th>Produto</th>
+                        <th>Modelos</th>
+                        <th>Volume</th>
+                        <th>Preço</th>
+                      </tr>
+                    </thead>
 
-              <!-- timeline item -->
-              <li>
-                  <!-- timeline icon -->
-                  <i class="glyphicon glyphicon-time bg-blue"></i>
-                  <div class="timeline-item">
-                    <button class="btn btn-box-tool abrir time" data-toggle="tooltip" title="Collapse"><i id="amplia" class="fa fa-plus"></i></button>
-                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
-                  
-                  
-                  
-                  <div class="conteudo timeline-body" style="display:none">
-                  <strong>Data do Pedido:</strong> 10/08/2016 <br>
-                  <strong>Entrega:</strong> Av Prof Noé Azevedo, 208, cj 61<br>
-                  <img src="images/exemplo.jpg" class="img-responsive" height="150"> </div>
-                   
-                   <script>
-              					$( ".abrir" ).click(function() {
-              					  $( ".conteudo" ).toggle( "slow" );
-                          $("#amplia").toggleClass('fa-minus');
-              					  
-              					});
+                    <tbody>
+                      
+                      <tr>
+                      <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                            <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>SE78946</td>
+                        <td>Batom</td>
+                        <td>Modelo 1</td>
+                        <td>50g</td>
+                        <td>15.80</td>
+                      </tr>
 
-        					</script>    
-				</div>
+                     <tr>
+                        <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                            <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>SE78946</td>
+                        <td>Batom</td>
+                        <td>Modelo 1</td>
+                        <td>50g</td>
+                        <td>15.80</td>
+                      </tr>
+                      
+                      <tr>
+                      <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                           <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>SE78946</td>
+                        <td>Maquiagem</td>
+                        <td>Modelo 3</td>
+                        <td>60 ml</td>
+                        <td>84.55</td>
+                      </tr>
+                     
+                     <tr>
+                     <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                            <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>SE78946</td>
+                        <td>Internet Explorer 7</td>
+                        <td>Modelo XP SP2+</td>
+                        <td>7</td>
+                        <td>84.55</td>
+                      </tr>
+                      
+                       <tr> 
+                       <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                            <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>PH784</td>
+                        <td>Maquiagem 1.0</td>
+                        <td>Modelos 3</td>
+                        <td>1.7</td>
+                        <td>84.55</td>
+                      </tr>
+                      
+                      <tr>
+                      <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                            <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>PH784</td>
+                        <td>Maquiagem 1.5</td>
+                        <td>Modelos 3</td>
+                        <td>1.8</td>
+                        <td>84.55</td>
+                      </tr>
+                      
+                      <tr>
+                      <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                            <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>PH784</td>
+                        <td>Maquiagem 2.0</td>
+                        <td>Modelos 3</td>
+                        <td>1.8</td>
+                        <td>84.55</td>
+                      </tr>
+                     
+                     <tr>
+                     <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                           <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>PH784</td>
+                        <td>Maquiagem 3.0</td>
+                        <td>Modelo 2k+ / Maquiagem.3+</td>
+                        <td>1.9</td>
+                        <td>84.55</td>
+                      </tr>
+                      
+                      <tr>
+                      <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                            <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>PH784</td>
+                        <td>Camino 1.0</td>
+                        <td>Maquiagem.2+</td>
+                        <td>1.8</td>
+                        <td>84.55</td>
+                      </tr>
+                      
+                    </tbody>
+                    
+                  </table>
+                </div><!-- /.box-body -->
+              </div><!-- /.box -->
+            </div><!-- /.col -->
+          </div><!-- /.row -->
+        </section><!-- /.content -->
 
-                  
-                  
-              </li>
-              <!-- END timeline item -->
-
-              <!-- timeline item -->
-              <li>
-                  <!-- timeline icon -->
-                  <i class="glyphicon glyphicon-ok bg-green"></i>
-                  <div class="timeline-item">
-                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
-                  </div>
-              </li>
-              <!-- END timeline item -->
-
-              <!-- timeline item -->
-              <li>
-                  <!-- timeline icon -->
-                  <i class="glyphicon glyphicon-remove bg-red"></i>
-                  <div class="timeline-item">
-                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
-                  </div>
-              </li>
-              <!-- END timeline item -->
-                
-              <!-- timeline item -->
-              <li>
-                  <!-- timeline icon -->
-                  <i class="glyphicon glyphicon-cog bg-yellow"></i>
-                  <div class="timeline-item">
-                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
-                  </div>
-              </li>
-              <!-- END timeline item -->
 
 
-          </ul>
-          <ul class="timeline"> 
 
-              <!-- timeline time label -->
-              <li class="time-label">
-                  <span class="bg-black">
-                      10 Julho
-                  </span>
-              </li>
-              <!-- /.timeline-label -->
-
-              <!-- timeline item -->
-              <li>
-                  <!-- timeline icon -->
-                  <i class="glyphicon glyphicon-time bg-blue"></i>
-                  <div class="timeline-item">
-                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
-                  </div>
-              </li>
-              <!-- END timeline item -->
-
-              <!-- timeline item -->
-              <li>
-                  <!-- timeline icon -->
-                  <i class="glyphicon glyphicon-ok bg-green"></i>
-                  <div class="timeline-item">
-                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
-                  </div>
-              </li>
-              <!-- END timeline item -->
-
-              <!-- timeline item -->
-              <li>
-                  <!-- timeline icon -->
-                  <i class="glyphicon glyphicon-remove bg-red"></i>
-                  <div class="timeline-item">
-                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
-                  </div>
-              </li>
-              <!-- END timeline item -->
-                
-              <!-- timeline item -->
-              <li>
-                  <!-- timeline icon -->
-                  <i class="glyphicon glyphicon-cog bg-yellow"></i>
-                  <div class="timeline-item">
-                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
-                  </div>
-              </li>
-              <!-- END timeline item -->
-
-
-          </ul>
-
-        </section>
       </div>
 
 
 
+
+<script>
+$(document).ready(function(){
+    $('#example1').DataTable({
+      "language": {
+            "sEmptyTable": "Nenhum registro encontrado",
+          "sInfo": "Mostrando de _START_ até _END_ de _TOTAL_ registros",
+          "sInfoEmpty": "Mostrando 0 até 0 de 0 registros",
+          "sInfoFiltered": "(Filtrados de _MAX_ registros)",
+          "sInfoPostFix": "",
+          "sInfoThousands": ".",
+          "sLengthMenu": "_MENU_ resultados por página",
+          "sLoadingRecords": "Carregando...",
+          "sProcessing": "Processando...",
+          "sZeroRecords": "Nenhum registro encontrado",
+          "sSearch": "Pesquisar",
+          "oPaginate": {
+              "sNext": "Próximo",
+              "sPrevious": "Anterior",
+              "sFirst": "Primeiro",
+              "sLast": "Último"
+          },
+          "oAria": {
+              "sSortAscending": ": Ordenar colunas de forma ascendente",
+              "sSortDescending": ": Ordenar colunas de forma descendente"
+          }
+        }
+    });
+});
+</script>
 
 
 

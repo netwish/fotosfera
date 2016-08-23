@@ -25,276 +25,477 @@
                 <div class="box-body">
                   <table id="example1" class="table table-bordered table-striped">
                     <thead>
-                      <tr>         
+                      <tr> 
+                        <th></th>        
                         <th>Código</th>
                         <th>Produto</th>
                         <th>Modelos</th>
+                        <th>Tipo</th>
                         <th>Volume</th>
                         <th>Preço</th>
                       </tr>
                     </thead>
 
                     <tbody>
-                      <tr>                        
+                      <tr>
+                        <td>
+                              <a href="produtos-criar.php" class="btn btn-default ">
+                                <span class="glyphicon glyphicon-pencil"></span> 
+                              </a>                      
+                         </td>                        
                         <td>SE78946</td>
                         <td>Base xyz</td>
                         <td>Modelo 1</td>
+                        <td>Collors</td>
                         <td>40 ml</td>
                         <td>58.50</td>
                       </tr>
                       
                       <tr>
-                        <td>SE78946</td>
-                        <td>Batom</td>
-                        <td>Modelo 1</td>
-                        <td>50g</td>
-                        <td>15.80</td>
+                          <td>                
+                              <a href="produtos-criar.php" class="btn btn-default ">
+                                <span class="glyphicon glyphicon-pencil"></span> 
+                              </a>
+                           </td> 
+                          <td>SE78946</td>
+                          <td>Batom</td>
+                          <td>Modelo 1</td>
+                          <td>Collors</td>
+                          <td>50g</td>
+                          <td>15.80</td>
                       </tr>
 
                      <tr>
+                     <td>                
+                            <a href="produtos-criar.php" class="btn btn-default">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>SE78946</td>
                         <td>Batom</td>
                         <td>Modelo 1</td>
+                        <td>Collors</td>
                         <td>50g</td>
                         <td>15.80</td>
                       </tr>
                       
                       <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>SE78946</td>
                         <td>Maquiagem</td>
                         <td>Modelo 3</td>
+                        <td>Collors</td>
                         <td>60 ml</td>
                         <td>84.55</td>
                       </tr>
                      
                      <tr>
+                     <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>SE78946</td>
                         <td>Internet Explorer 7</td>
                         <td>Modelo XP SP2+</td>
-                        <td>7</td>
-                        <td>84.55</td>
-                      </tr>
-                      
-                       <tr> 
-                        <td>PH784</td>
-                        <td>Maquiagem 1.0</td>
-                        <td>Modelos 3</td>
-                        <td>1.7</td>
-                        <td>84.55</td>
-                      </tr>
-                      
-                      <tr>
-                        <td>PH784</td>
-                        <td>Maquiagem 1.5</td>
-                        <td>Modelos 3</td>
-                        <td>1.8</td>
-                        <td>84.55</td>
-                      </tr>
-                      
-                      <tr>
-                        <td>PH784</td>
-                        <td>Maquiagem 2.0</td>
-                        <td>Modelos 3</td>
-                        <td>1.8</td>
-                        <td>84.55</td>
-                      </tr>
-                     
-                     <tr>
-                        <td>PH784</td>
-                        <td>Maquiagem 3.0</td>
-                        <td>Modelo 2k+ / Maquiagem.3+</td>
-                        <td>1.9</td>
-                        <td>84.55</td>
-                      </tr>
-                      
-                        <td>PH784</td>
-                        <td>Camino 1.0</td>
-                        <td>Maquiagem.2+</td>
-                        <td>1.8</td>
-                        <td>84.55</td>
-                      </tr>
-                      
-                      <tr>
-                        <td>PH784</td>
-                        <td>Camino 1.5</td>
-                        <td>Maquiagem.3+</td>
-                        <td>1.8</td>
-                        <td>84.55</td>
-                      </tr>
-                     
-                     <tr>
-                        <td>SE78946</td>
-                        <td>Base xyz</td>
-                        <td>Modelo 1</td>
-                        <td>40 ml</td>
-                        <td>58.50</td>
-                      </tr>
-                      
-                      <tr>
-                        <td>SE78946</td>
-                        <td>Batom</td>
-                        <td>Modelo 1</td>
-                        <td>50g</td>
-                        <td>15.80</td>
-                      </tr>
-                      
-                      <tr>
-                        <td>SE78946</td>
-                        <td>Batom</td>
-                        <td>Modelo 1</td>
-                        <td>50g</td>
-                        <td>15.80</td>
-                      </tr>
-                     
-                     <tr>
-                        <td>SE78946</td>
-                        <td>Maquiagem</td>
-                        <td>Modelo 3</td>
-                        <td>60 ml</td>
-                        <td>84.55</td>
-                      </tr>
-                      
-                      <tr>
-                        <td>SE78946</td>
-                        <td>Internet Explorer 7</td>
-                        <td>Modelo XP SP2+</td>
+                        <td>Collors</td>
                         <td>7</td>
                         <td>84.55</td>
                       </tr>
                       
                        <tr>
+                       <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td>  
                         <td>PH784</td>
                         <td>Maquiagem 1.0</td>
                         <td>Modelos 3</td>
+                        <td>Collors</td>
                         <td>1.7</td>
                         <td>84.55</td>
                       </tr>
                       
-                       <tr>
+                      <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>PH784</td>
                         <td>Maquiagem 1.5</td>
                         <td>Modelos 3</td>
+                        <td>Collors</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
                       
                       <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>PH784</td>
                         <td>Maquiagem 2.0</td>
                         <td>Modelos 3</td>
+                        <td>Collors</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
-                      
-                      <tr>
+                     
+                     <tr>
+                     <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>PH784</td>
                         <td>Maquiagem 3.0</td>
                         <td>Modelo 2k+ / Maquiagem.3+</td>
+                        <td>Collors</td>
                         <td>1.9</td>
                         <td>84.55</td>
                       </tr>
                       
                       <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>PH784</td>
                         <td>Camino 1.0</td>
                         <td>Maquiagem.2+</td>
+                        <td>Collors</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
                       
                       <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>PH784</td>
                         <td>Camino 1.5</td>
                         <td>Maquiagem.3+</td>
+                        <td>Collors</td>
+                        <td>1.8</td>
+                        <td>84.55</td>
+                      </tr>
+                     
+                     <tr>
+                     <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
+                        <td>SE78946</td>
+                        <td>Base xyz</td>
+                        <td>Modelo 1</td>
+                        <td>Collors</td>
+                        <td>40 ml</td>
+                        <td>58.50</td>
+                      </tr>
+                      
+                      <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
+                        <td>SE78946</td>
+                        <td>Batom</td>
+                        <td>Modelo 1</td>
+                        <td>Collors</td>
+                        <td>50g</td>
+                        <td>15.80</td>
+                      </tr>
+                      
+                      <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
+                        <td>SE78946</td>
+                        <td>Batom</td>
+                        <td>Modelo 1</td>
+                        <td>Collors</td>
+                        <td>50g</td>
+                        <td>15.80</td>
+                      </tr>
+                     
+                     <tr>
+                     <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
+                        <td>SE78946</td>
+                        <td>Maquiagem</td>
+                        <td>Modelo 3</td>
+                        <td>Collors</td>
+                        <td>60 ml</td>
+                        <td>84.55</td>
+                      </tr>
+                      
+                      <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
+                        <td>SE78946</td>
+                        <td>Internet Explorer 7</td>
+                        <td>Modelo XP SP2+</td>
+                        <td>Collors</td>
+                        <td>7</td>
+                        <td>84.55</td>
+                      </tr>
+                      
+                       <tr>
+                       <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
+                        <td>PH784</td>
+                        <td>Maquiagem 1.0</td>
+                        <td>Modelos 3</td>
+                        <td>Collors</td>
+                        <td>1.7</td>
+                        <td>84.55</td>
+                      </tr>
+                      
+                       <tr>
+                       <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
+                        <td>PH784</td>
+                        <td>Maquiagem 1.5</td>
+                        <td>Modelos 3</td>
+                        <td>Collors</td>
+                        <td>1.8</td>
+                        <td>84.55</td>
+                      </tr>
+                      
+                      <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
+                        <td>PH784</td>
+                        <td>Maquiagem 2.0</td>
+                        <td>Modelos 3</td>
+                        <td>Collors</td>
+                        <td>1.8</td>
+                        <td>84.55</td>
+                      </tr>
+                      
+                      <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
+                        <td>PH784</td>
+                        <td>Maquiagem 3.0</td>
+                        <td>Modelo 2k+ / Maquiagem.3+</td>
+                        <td>Collors</td>
+                        <td>1.9</td>
+                        <td>84.55</td>
+                      </tr>
+                      
+                      <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
+                        <td>PH784</td>
+                        <td>Camino 1.0</td>
+                        <td>Maquiagem.2+</td>
+                        <td>Collors</td>
+                        <td>1.8</td>
+                        <td>84.55</td>
+                      </tr>
+                      
+                      <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
+                        <td>PH784</td>
+                        <td>Camino 1.5</td>
+                        <td>Maquiagem.3+</td>
+                        <td>Collors</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
                       
 
                       <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>SE78946</td>
                         <td>Base xyz</td>
                         <td>Modelo 1</td>
+                        <td>Collors</td>
                         <td>40 ml</td>
                         <td>58.50</td>
                       </tr>
                       
                       <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>SE78946</td>
                         <td>Batom</td>
                         <td>Modelo 1</td>
+                        <td>Collors</td>
                         <td>50g</td>
                         <td>15.80</td>
                       </tr>
                       
                       <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>SE78946</td>
                         <td>Batom</td>
                         <td>Modelo 1</td>
+                        <td>Collors</td>
                         <td>50g</td>
                         <td>15.80</td>
                       </tr>
                       
                       <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>SE78946</td>
                         <td>Maquiagem</td>
                         <td>Modelo 3</td>
+                        <td>Collors</td>
                         <td>60 ml</td>
                         <td>84.55</td>
                       </tr>
                       
                       <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>SE78946</td>
                         <td>Internet Explorer 7</td>
                         <td>Modelo XP SP2+</td>
+                        <td>Collors</td>
                         <td>7</td>
                         <td>84.55</td>
                       </tr>
                       
                       <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>PH784</td>
                         <td>Maquiagem 1.0</td>
                         <td>Modelos 3</td>
+                        <td>Collors</td>
                         <td>1.7</td>
                         <td>84.55</td>
                       </tr>
                       
                       <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>PH784</td>
                         <td>Maquiagem 1.5</td>
                         <td>Modelos 3</td>
+                        <td>Collors</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
                       
                       <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>PH784</td>
                         <td>Maquiagem 2.0</td>
                         <td>Modelos 3</td>
+                        <td>Collors</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
                       
                       <tr>
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td> 
                         <td>PH784</td>
                         <td>Maquiagem 3.0</td>
                         <td>Modelo 2k+ / Maquiagem.3+</td>
+                        <td>Collors</td>
                         <td>1.9</td>
                         <td>84.55</td>
                       </tr>
                       
-                      <tr>                      
+                      <tr> 
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td>                      
                         <td>PH784</td>
                         <td>Camino 1.0</td>
                         <td>Maquiagem.2+</td>
+                        <td>Collors</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
                       
-                      <tr>                      
+                      <tr> 
+                      <td>                
+                            <a href="produtos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                         </td>                      
                         <td>PH784</td>
                         <td>Camino 1.5</td>
                         <td>Maquiagem.3+</td>
+                        <td>Collors</td>
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
