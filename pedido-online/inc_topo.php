@@ -5,6 +5,10 @@ if ($_GET["c"] != ""){
 	$_SESSION["cliente"] = $_GET["c"];
 }
 
+if ($_GET["n"] != ""){
+  $_SESSION["nivel"] = $_GET["n"];
+}
+
 ?>
 <!DOCTYPE html>
 <html>
@@ -27,6 +31,7 @@ if ($_GET["c"] != ""){
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="plugins/select2/select2.min.css">
     <link rel="stylesheet" href="dist/css/AdminLTE.min.css">
     <link rel="stylesheet" href="dist/css/skins/_all-skins.min.css">
     <link rel="stylesheet" href="plugins/iCheck/flat/blue.css">
@@ -127,4 +132,8 @@ if ($_GET["c"] != ""){
         </nav>
 </header>
 
-<?php include 'inc_menu_lateral.php' ?>
+<?php if ($_SESSION["nivel"] == 1) {?>
+  <?php include 'inc_menu_lateral_reduzido.php' ?>
+<?php }else{ ?>
+  <?php include 'inc_menu_lateral.php' ?>
+<?php } ?>

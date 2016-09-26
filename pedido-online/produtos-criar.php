@@ -22,17 +22,18 @@
   <div class="box">
 
     <div class="box-body">
-        <div class="row"> 
+        <div class="row">
+
               <div class="col-md-1">
                   <div class="form-group">
                       <label>Código</label>
                       <input type="text" class="form-control" value="" />
                   </div><!-- /.form-group -->
               </div><!-- /.col --> 
-                                         
-      				<div class="col-md-4">
+
+              <div class="col-md-7">
                   <div class="form-group">
-                      <label>Descrição</label>
+                      <label>Nome</label>
                       <input type="text" class="form-control" value="" />
                    </div><!-- /.form-group -->
               </div><!-- /.col --> 
@@ -49,7 +50,7 @@
                    </div><!-- /.form-group -->
               </div><!-- /.col --> 
 
-              <div class="col-md-3">
+              <div class="col-md-2">
                   <div class="form-group">
                       <label>Marca</label>
                       <select class="form-control select2" style="width: 100%;">
@@ -61,20 +62,62 @@
                    </div><!-- /.form-group -->
               </div><!-- /.col --> 
 
+              <div class="col-md-2">
+                        <div class="form-group">
+                            <label>Tipo</label>
+                            <select class="form-control select2" style="width: 100%;">
+                                <option selected="selected">Selecione</option>
+                                <option>Fragrância</option>
+                                <option>Collors</option>
+                                <option>Skincare</option>
+                            </select>
+                         </div><!-- /.form-group -->
+                    </div><!-- /.col --> 
+
+                                         
+      				<div class="col-md-4">
+                  <div class="form-group">
+                      <label>Descrição 1</label>
+                      <input type="text" class="form-control" value="" />
+                   </div><!-- /.form-group -->
+              </div><!-- /.col --> 
+
+              <div class="col-md-4">
+                  <div class="form-group">
+                      <label>Descrição 2</label>
+                      <input type="text" class="form-control" value="" />
+                   </div><!-- /.form-group -->
+              </div><!-- /.col --> 
+
+              
         </div>
 
                 <div class="row">
+
+                <div class="col-md-2">
+                          <div class="form-group">
+                             <label>Preço Normal</label>
+                             <input type="text" class="form-control" value="" />
+                          </div><!-- /.form-group -->
+                      </div><!-- /.col -->
+
+                      <div class="col-md-2">
+                          <div class="form-group">
+                             <label>Preço Promoção</label>
+                             <input type="text" class="form-control" value="" />
+                          </div><!-- /.form-group -->
+                      </div><!-- /.col -->                  
+
                       <div class="col-md-1">
                             <div class="form-group">
                                <label>Volumetria</label>
                                <input type="text" class="form-control" value="" />
                             </div><!-- /.form-group -->
                        </div><!-- /.col -->
-                                
-                                        
-                      <div class="col-md-4">
+
+                       <div class="col-md-3">
                           <div class="form-group">
-                             <label>Modelo de etiqueta</label>
+                             <label>Modelo 1</label>
                              <select class="form-control select2" style="width: 100%;">
                                  <option selected="selected">Selecione</option>
                                  <option>Modelo 1</option>
@@ -82,14 +125,19 @@
                                  <option>Modelo 3</option>
                              </select>
                           </div><!-- /.form-group -->
-                     </div><!-- /.col --> 
-
-                    <div class="col-md-1">
+                     </div><!-- /.col -->
+                     
+                      <div class="col-md-4">
                           <div class="form-group">
-                             <label>Preço</label>
-                             <input type="text" class="form-control" value="" />
+                             <label>Modelo 2</label>
+                             <select class="form-control select2" style="width: 100%;">
+                                 <option selected="selected">Selecione</option>
+                                 <option>Modelo 1</option>
+                                 <option>Modelo 2</option>
+                                 <option>Modelo 3</option>
+                             </select>
                           </div><!-- /.form-group -->
-                      </div><!-- /.col -->
+                     </div><!-- /.col -->        
 
                 </div><!-- /.row -->
 
@@ -112,7 +160,7 @@
   </div> -->
 
 
-  <button type="button" class="btn bg-orange">CADASTRAR</button>
+  <button type="button" class="btn bg-blue">CADASTRAR</button>
 
   </section>
 
