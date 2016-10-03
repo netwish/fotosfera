@@ -15,6 +15,7 @@
         </section>
 
        
+<<<<<<< HEAD
        <section class="content">
 
     <div class="box">
@@ -78,6 +79,9 @@
         </div>
       </div>
     </div>
+=======
+        <section class="content">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
          
           <ul class="timeline"> 
 
@@ -94,13 +98,19 @@
                   <!-- timeline icon -->
                   <i class="glyphicon glyphicon-time bg-blue"></i>
                   <div class="timeline-item">
+<<<<<<< HEAD
                   <button class="btn btn-box-tool  time" data-toggle="tooltip" title="" data-original-title="Collapse" style="color: #ff6600;"><i id="" class="fa  fa-close"></i> CANCELAR</button>
                     <button class="btn btn-box-tool abrir time" data-toggle="tooltip" title="Collapse"><i id="amplia" class="fa fa-plus"></i></button>
                      <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> /  6500 unidade / Produção</strong></h3>
+=======
+                    <button class="btn btn-box-tool abrir time" data-toggle="tooltip" title="Collapse"><i id="amplia" class="fa fa-plus"></i></button>
+                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                   
                   
                   
                   <div class="conteudo timeline-body" style="display:none">
+<<<<<<< HEAD
 
                      <div class="row " id="example2">
                     <div class="col-md-12">
@@ -229,6 +239,21 @@
 
                   </script>    
         </div>
+=======
+                  <strong>Data da Solicitação:</strong> 10/08/2016 <br>
+                  <strong>Entrega:</strong> Av Prof Noé Azevedo, 208, cj 61<br>
+                  <img src="images/exemplo.jpg" class="img-responsive" height="150"> </div>
+                   
+                   <script>
+              					$( ".abrir" ).click(function() {
+              					  $( ".conteudo" ).toggle( "slow" );
+                          $("#amplia").toggleClass('fa-minus');
+              					  
+              					});
+
+        					</script>    
+				</div>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
 
                   
                   
@@ -240,7 +265,11 @@
                   <!-- timeline icon -->
                   <i class="glyphicon glyphicon-ok bg-green"></i>
                   <div class="timeline-item">
+<<<<<<< HEAD
                      <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / 8000 unidade / Produção</strong></h3>
+=======
+                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                   </div>
               </li>
               <!-- END timeline item -->
@@ -250,7 +279,11 @@
                   <!-- timeline icon -->
                   <i class="glyphicon glyphicon-remove bg-red"></i>
                   <div class="timeline-item">
+<<<<<<< HEAD
                      <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> /  900 unidade / Produção</strong></h3>
+=======
+                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                   </div>
               </li>
               <!-- END timeline item -->
@@ -260,7 +293,11 @@
                   <!-- timeline icon -->
                   <i class="glyphicon glyphicon-cog bg-yellow"></i>
                   <div class="timeline-item">
+<<<<<<< HEAD
                      <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / 600 unidade / Produção</strong></h3>
+=======
+                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                   </div>
               </li>
               <!-- END timeline item -->
@@ -282,7 +319,11 @@
                   <!-- timeline icon -->
                   <i class="glyphicon glyphicon-time bg-blue"></i>
                   <div class="timeline-item">
+<<<<<<< HEAD
                      <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> /  200 unidade / Produção</strong></h3>
+=======
+                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                   </div>
               </li>
               <!-- END timeline item -->
@@ -292,7 +333,11 @@
                   <!-- timeline icon -->
                   <i class="glyphicon glyphicon-ok bg-green"></i>
                   <div class="timeline-item">
+<<<<<<< HEAD
                      <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / 400 unidade / Produção</strong></h3>
+=======
+                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                   </div>
               </li>
               <!-- END timeline item -->
@@ -302,7 +347,11 @@
                   <!-- timeline icon -->
                   <i class="glyphicon glyphicon-remove bg-red"></i>
                   <div class="timeline-item">
+<<<<<<< HEAD
                      <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> /  20 unidade / Cancelado</strong></h3>
+=======
+                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                   </div>
               </li>
               <!-- END timeline item -->
@@ -312,7 +361,11 @@
                   <!-- timeline icon -->
                   <i class="glyphicon glyphicon-cog bg-yellow"></i>
                   <div class="timeline-item">
+<<<<<<< HEAD
                      <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / 5100 unidade / Aguardando</strong></h3>
+=======
+                     <h3 class="timeline-header"><strong><a href="#">SE-0045754</a> / Produto XY / 500 unidade / Produção</strong></h3>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                   </div>
               </li>
               <!-- END timeline item -->

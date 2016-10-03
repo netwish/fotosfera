@@ -69,7 +69,11 @@
                                 <option selected="selected">Selecione</option>
                                 <option>Fragrância</option>
                                 <option>Collors</option>
+<<<<<<< HEAD
                                 <option>Skincare</option>
+=======
+                                <option>Skil</option>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                             </select>
                          </div><!-- /.form-group -->
                     </div><!-- /.col --> 
@@ -96,14 +100,22 @@
 
                 <div class="col-md-2">
                           <div class="form-group">
+<<<<<<< HEAD
                              <label>Preço Normal</label>
+=======
+                             <label>Preço</label>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                              <input type="text" class="form-control" value="" />
                           </div><!-- /.form-group -->
                       </div><!-- /.col -->
 
                       <div class="col-md-2">
                           <div class="form-group">
+<<<<<<< HEAD
                              <label>Preço Promoção</label>
+=======
+                             <label>Preço 2 </label>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                              <input type="text" class="form-control" value="" />
                           </div><!-- /.form-group -->
                       </div><!-- /.col -->                  
@@ -129,7 +141,11 @@
                      
                       <div class="col-md-4">
                           <div class="form-group">
+<<<<<<< HEAD
                              <label>Modelo 2</label>
+=======
+                             <label>Modelo de etiqueta 2</label>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                              <select class="form-control select2" style="width: 100%;">
                                  <option selected="selected">Selecione</option>
                                  <option>Modelo 1</option>

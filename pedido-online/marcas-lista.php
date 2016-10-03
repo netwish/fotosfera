@@ -42,7 +42,11 @@
                             <button type="button" class="btn btn-default" aria-label="Alinhar na esquerda">
                                 <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
                             </button>
+<<<<<<< HEAD
                          </td>                        
+=======
+                        </td>                        
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                         <td>12345</td>
                         <td>Marca 1</td>
                         <td>Marca 1</td>

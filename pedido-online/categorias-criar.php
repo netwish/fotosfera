@@ -67,7 +67,11 @@
   </div> -->
 
 
+<<<<<<< HEAD
   <button type="button" class="btn bg-blue">CADASTRAR</button>
+=======
+  <button type="button" class="btn bg-orange">CADASTRAR</button>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
 
   </section>
 

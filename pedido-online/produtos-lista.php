@@ -103,7 +103,11 @@
                   <table id="example1" class="table table-bordered table-striped">
                     <thead>
                       <tr> 
+<<<<<<< HEAD
                         <th style="width:40px;"></th>        
+=======
+                        <th></th>        
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                         <th>Código</th>
                         <th>Produto</th>
                         <th>Modelos</th>
@@ -116,13 +120,21 @@
                     <tbody>
                       <tr>
                         <td>
+<<<<<<< HEAD
                               <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                              <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                                 <span class="glyphicon glyphicon-pencil"></span> 
                               </a>                      
                          </td>                        
                         <td>SE78946</td>
                         <td>Base xyz</td>
+<<<<<<< HEAD
                         <td>Modelo 1, Modelo 2</td>
+=======
+                        <td>Modelo 1</td>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                         <td>Collors</td>
                         <td>40 ml</td>
                         <td>58.50</td>
@@ -130,7 +142,11 @@
                       
                       <tr>
                           <td>                
+<<<<<<< HEAD
                               <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                              <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                                 <span class="glyphicon glyphicon-pencil"></span> 
                               </a>
                            </td> 
@@ -144,7 +160,11 @@
 
                      <tr>
                      <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -158,7 +178,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -172,13 +196,22 @@
                      
                      <tr>
                      <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
                         <td>SE78946</td>
+<<<<<<< HEAD
                         <td>Perfume 7</td>
                         <td>Modelo 2+</td>
+=======
+                        <td>Internet Explorer 7</td>
+                        <td>Modelo XP SP2+</td>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                         <td>Collors</td>
                         <td>7</td>
                         <td>84.55</td>
@@ -186,7 +219,11 @@
                       
                        <tr>
                        <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td>  
@@ -200,7 +237,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -214,7 +255,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -228,7 +273,11 @@
                      
                      <tr>
                      <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -242,7 +291,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -256,7 +309,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -270,7 +327,11 @@
                      
                      <tr>
                      <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -284,7 +345,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -298,7 +363,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -312,7 +381,11 @@
                      
                      <tr>
                      <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -326,13 +399,22 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
                         <td>SE78946</td>
+<<<<<<< HEAD
                         <td>Perfume 7</td>
                         <td>Modelo 2+</td>
+=======
+                        <td>Internet Explorer 7</td>
+                        <td>Modelo XP SP2+</td>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                         <td>Collors</td>
                         <td>7</td>
                         <td>84.55</td>
@@ -340,7 +422,11 @@
                       
                        <tr>
                        <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -354,7 +440,11 @@
                       
                        <tr>
                        <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -368,7 +458,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -382,7 +476,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -396,7 +494,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -410,7 +512,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -425,7 +531,11 @@
 
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -439,7 +549,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -453,7 +567,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -467,7 +585,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -481,13 +603,22 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
                         <td>SE78946</td>
+<<<<<<< HEAD
                         <td>Perfume 7</td>
                         <td>Modelo 2+</td>
+=======
+                        <td>Internet Explorer 7</td>
+                        <td>Modelo XP SP2+</td>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                         <td>Collors</td>
                         <td>7</td>
                         <td>84.55</td>
@@ -495,7 +626,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -509,7 +644,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -523,7 +662,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -537,7 +680,11 @@
                       
                       <tr>
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td> 
@@ -551,7 +698,11 @@
                       
                       <tr> 
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td>                      
@@ -565,7 +716,11 @@
                       
                       <tr> 
                       <td>                
+<<<<<<< HEAD
                             <a href="produtos-criar.php" class="btn_mini btn-default ">
+=======
+                            <a href="produtos-criar.php" class="btn btn-default ">
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                               <span class="glyphicon glyphicon-pencil"></span> 
                             </a>
                          </td>                      

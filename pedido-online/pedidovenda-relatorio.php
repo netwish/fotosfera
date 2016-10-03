@@ -13,6 +13,7 @@
     </ol>
   </section>
 
+<<<<<<< HEAD
   
 
   <section class="content" >
@@ -35,6 +36,174 @@
 
   </section>
 
+=======
+  <section class="content">
+
+  <div class="box">
+    <div class="box-body">
+          
+        <div class="row">
+            <div class="col-md-6">
+
+                <!-- DATA BAR -->
+                <div class="box box-success">
+                    <div class="box-header with-border">
+                      <h3 class="box-title">Acumulo de vendas no mês</h3>
+                      <div class="box-tools pull-right">
+                        <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
+                        <button class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+                      </div>
+                    </div>
+    
+                    <div class="box-body">
+                        <div class="chart">
+                          <canvas id="barChart" style="height:250px"></canvas>
+                        </div>
+                    </div><!-- /.box-body -->
+                  </div>
+
+                <!-- GEO CHART -->
+                <div class="box box-success">
+                  <div class="box-header with-border">
+                    <h3 class="box-title">Faturamento mensal por região</h3>
+                    <ul class="nav nav-tabs pull-right">
+                      <li class="active mapa_faturamento"><a href="#mapa_faturamento" data-toggle="tab">Area</a></li>
+                      <li class="BR-SP"><a href="#BR-SP" data-toggle="tab">SP</a></li>
+                      <li class="BR-CE"><a href="#BR-CE" data-toggle="tab">CE</a></li>
+                      <li class="BR-PE"><a href="#BR-PE" data-toggle="tab">PE</a></li>
+                      <li class="BR-MT"><a href="#BR-MT" data-toggle="tab">MT</a></li>
+                      <li class="BR-BA"><a href="#BR-BA" data-toggle="tab">BA</a></li>
+                    </ul>
+                  </div>
+
+                  <div class="box-body">
+                    <div class="tab-content no-padding">
+                      <div class="chart tab-pane active" id="mapa_faturamento" >
+                        <div id="chart_div"></div>
+                      </div>
+                      <div class="chart tab-pane active " id="BR-SP" style="position: relative;">
+                        <div class="chart">
+                          <canvas id="lineSP" ></canvas>
+                        </div>
+                      </div>
+                      <div class="chart tab-pane active " id="BR-CE" style="position: relative;">
+                        <div class="chart">
+                          <canvas id="lineCE" ></canvas>
+                        </div>
+                      </div>
+                      <div class="chart tab-pane active " id="BR-PE" style="position: relative;">
+                        <div class="chart">
+                          <canvas id="linePE" ></canvas>
+                        </div>
+                      </div>
+                      <div class="chart tab-pane active " id="BR-MT" style="position: relative;">
+                        <div class="chart">
+                          <canvas id="lineMT" ></canvas>
+                        </div>
+                      </div>
+                      <div class="chart tab-pane active " id="BR-BA" style="position: relative;">
+                        <div class="chart">
+                          <canvas id="lineBA" ></canvas>
+                        </div>
+                      </div>
+                    </div>
+                  </div><!-- /.box-body -->
+                </div><!-- /.box -->
+
+
+                <!-- PIE CHART -->
+                <div class="box box-warning">
+                    <div class="box-header with-border">
+                      <h3 class="box-title">OEE mês a mês</h3>
+                      <div class="box-tools pull-right">
+                        <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
+                        <button class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+                      </div>
+                    </div>
+    
+                    <div class="box-body">
+                        <div class="chart">
+                          <canvas id="pieChart" style="height:250px"></canvas>
+                        </div>
+                    </div><!-- /.box-body -->
+                  </div>
+
+
+            </div><!-- /.col (LEFT) -->
+
+            <div class="col-md-6">
+            <!-- LINE CHART -->
+                <div class="box box-info">
+                  <div class="box-header with-border">
+                    <h3 class="box-title">Margem de contribuição/lucro</h3>
+                    <div class="box-tools pull-right">
+                      <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
+                      <button class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+                    </div>
+                  </div>
+                  <div class="box-body">
+                        <div class="chart">
+                          <canvas id="lineChart" style="height:250px"></canvas>
+                        </div>
+                  </div><!-- /.box-body -->
+                </div>
+
+            <!-- PIE CHART -->
+                <div class="box box-success">
+                    <div class="box-header with-border">
+                      <h3 class="box-title">Preço médio do kg por segmento - Abril 2016</h3>
+                      <div class="box-tools pull-right">
+                        <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
+                        <button class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+                      </div>
+                    </div>
+    
+                    <div class="box-body">
+                        <div class="chart">
+                          <canvas id="pieChart2" style="height:250px"></canvas>
+                        </div> 
+                    </div><!-- /.box-body -->
+                  </div>
+
+            <!-- AREA CHART -->
+                <div class="box box-success">
+                    <div class="box-header with-border">
+                      <h3 class="box-title">Venda por segmento - Abril 2016</h3>
+                      <div class="box-tools pull-right">
+                        <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
+                        <button class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+                      </div>
+                    </div>
+    
+                    <div class="box-body">
+                        <div class="chart">
+                          <canvas id="areaChart" style="height:250px"></canvas>
+                        </div>
+                    </div><!-- /.box-body -->
+                  </div>
+
+                <!-- BARRA Unica -->
+                <div class="box box-success">
+                    <div class="box-header with-border">
+                      <h3 class="box-title">Nível de estoque de PA na expedição (em R$)</h3>
+                      <div class="box-tools pull-right">
+                        <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
+                        <button class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+                      </div>
+                    </div>
+    
+                    <div class="box-body">
+                        <div class="chart">
+                          <canvas id="barChart2" style="height:250px"></canvas>
+                        </div>
+                    </div><!-- /.box-body -->
+                  </div>
+
+            </div><!-- /.col (RIGHT) -->
+        </div>
+
+        </section><!-- /.content -->
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
       </div><!-- /.content-wrapper -->
 
 

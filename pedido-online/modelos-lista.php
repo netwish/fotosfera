@@ -15,6 +15,7 @@
 
         <!-- Main content -->
         <section class="content">
+<<<<<<< HEAD
 
 
 <div class="box">
@@ -55,6 +56,8 @@
 
 
 
+=======
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
           <div class="row">
             <div class="col-xs-12">
               
@@ -64,17 +67,25 @@
                   <table id="example1" class="table table-bordered table-striped">
                     <thead>
                       <tr> 
+<<<<<<< HEAD
                         <th style="width:40px;"></th>        
                         <th>Código</th>
                         <th>Produto</th>
                         <th>Modelos</th>
                         <th>Tipo</th>
+=======
+                        <th></th>        
+                        <th>Código</th>
+                        <th>Produto</th>
+                        <th>Modelos</th>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                         <th>Volume</th>
                         <th>Preço</th>
                       </tr>
                     </thead>
 
                     <tbody>
+<<<<<<< HEAD
                       <tr>
                         <td>
                               <a href="produtos-criar.php" class="btn_mini btn-default "><span class="glyphicon glyphicon-pencil"></span></a>
@@ -113,11 +124,43 @@
                         <td><a href="#" class="btn_mini btn-default "  data-toggle="modal" data-target="#myModal"><span class="fa fa-reorder"></span></a> 50 produtos</td>
                         <td>Modelo 1</td>
                         <td>Collors</td>
+=======
+                      
+                      <tr>
+                      <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                            <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>SE78946</td>
+                        <td>Batom</td>
+                        <td>Modelo 1</td>
+                        <td>50g</td>
+                        <td>15.80</td>
+                      </tr>
+
+                     <tr>
+                        <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                            <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>SE78946</td>
+                        <td>Batom</td>
+                        <td>Modelo 1</td>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                         <td>50g</td>
                         <td>15.80</td>
                       </tr>
                       
                       <tr>
+<<<<<<< HEAD
                       <td>                
                             <a href="produtos-criar.php" class="btn_mini btn-default "><span class="glyphicon glyphicon-pencil"></span></a> <button type="button" class="btn_mini btn-default"><span class="glyphicon glyphicon-remove"></span></button>
 
@@ -128,11 +171,25 @@
                         <td><a href="#" class="btn_mini btn-default "  data-toggle="modal" data-target="#myModal"><span class="fa fa-reorder"></span></a> 151 produtos</td>
                         <td>Modelo 3</td>
                         <td>Collors</td>
+=======
+                      <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                           <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>SE78946</td>
+                        <td>Maquiagem</td>
+                        <td>Modelo 3</td>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                         <td>60 ml</td>
                         <td>84.55</td>
                       </tr>
                      
                      <tr>
+<<<<<<< HEAD
                      <td>                
                             <a href="produtos-criar.php" class="btn_mini btn-default "><span class="glyphicon glyphicon-pencil"></span></a> <button type="button" class="btn_mini btn-default"><span class="glyphicon glyphicon-remove"></span></button>
 
@@ -143,10 +200,24 @@
                         <td><a href="#" class="btn_mini btn-default "  data-toggle="modal" data-target="#myModal"><span class="fa fa-reorder"></span></a> 1 produto</td>
                         <td>Modelo 3</td>
                         <td>Collors</td>
+=======
+                     <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                            <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>SE78946</td>
+                        <td>Internet Explorer 7</td>
+                        <td>Modelo XP SP2+</td>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                         <td>7</td>
                         <td>84.55</td>
                       </tr>
                       
+<<<<<<< HEAD
                        <tr>
                        <td>                
                             <a href="produtos-criar.php" class="btn_mini btn-default "><span class="glyphicon glyphicon-pencil"></span></a> <button type="button" class="btn_mini btn-default"><span class="glyphicon glyphicon-remove"></span></button>
@@ -158,11 +229,26 @@
                         <td><a href="#" class="btn_mini btn-default "  data-toggle="modal" data-target="#myModal"><span class="fa fa-reorder"></span></a> 151 produtos</td>
                         <td>Modelos 3</td>
                         <td>Collors</td>
+=======
+                       <tr> 
+                       <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                            <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>PH784</td>
+                        <td>Maquiagem 1.0</td>
+                        <td>Modelos 3</td>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                         <td>1.7</td>
                         <td>84.55</td>
                       </tr>
                       
                       <tr>
+<<<<<<< HEAD
                       <td>                
                             <a href="produtos-criar.php" class="btn_mini btn-default "><span class="glyphicon glyphicon-pencil"></span></a> <button type="button" class="btn_mini btn-default"><span class="glyphicon glyphicon-remove"></span></button>
 
@@ -173,11 +259,25 @@
                         <td><a href="#" class="btn_mini btn-default "  data-toggle="modal" data-target="#myModal"><span class="fa fa-reorder"></span></a> 151 produtos</td>
                         <td>Modelos 3</td>
                         <td>Collors</td>
+=======
+                      <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                            <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>PH784</td>
+                        <td>Maquiagem 1.5</td>
+                        <td>Modelos 3</td>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
                       
                       <tr>
+<<<<<<< HEAD
                       <td>                
                             <a href="produtos-criar.php" class="btn_mini btn-default "><span class="glyphicon glyphicon-pencil"></span></a> <button type="button" class="btn_mini btn-default"><span class="glyphicon glyphicon-remove"></span></button>
 
@@ -188,11 +288,25 @@
                         <td><a href="#" class="btn_mini btn-default "  data-toggle="modal" data-target="#myModal"><span class="fa fa-reorder"></span></a> 151 produtos</td>
                         <td>Modelos 3</td>
                         <td>Collors</td>
+=======
+                      <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                            <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>PH784</td>
+                        <td>Maquiagem 2.0</td>
+                        <td>Modelos 3</td>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
                      
                      <tr>
+<<<<<<< HEAD
                      <td>                
                             <a href="produtos-criar.php" class="btn_mini btn-default "><span class="glyphicon glyphicon-pencil"></span></a> <button type="button" class="btn_mini btn-default"><span class="glyphicon glyphicon-remove"></span></button>
 
@@ -203,11 +317,25 @@
                         <td><a href="#" class="btn_mini btn-default "  data-toggle="modal" data-target="#myModal"><span class="fa fa-reorder"></span></a> 151 produtos</td>
                         <td>Modelo 2k+ / Maquiagem.3+</td>
                         <td>Collors</td>
+=======
+                     <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                           <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>PH784</td>
+                        <td>Maquiagem 3.0</td>
+                        <td>Modelo 2k+ / Maquiagem.3+</td>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                         <td>1.9</td>
                         <td>84.55</td>
                       </tr>
                       
                       <tr>
+<<<<<<< HEAD
                       <td>                
                             <a href="produtos-criar.php" class="btn_mini btn-default "><span class="glyphicon glyphicon-pencil"></span></a> <button type="button" class="btn_mini btn-default"><span class="glyphicon glyphicon-remove"></span></button>
 
@@ -567,6 +695,23 @@
                         <td>1.8</td>
                         <td>84.55</td>
                       </tr>
+=======
+                      <td>
+                            <a href="modelos-criar.php" class="btn btn-default ">
+                              <span class="glyphicon glyphicon-pencil"></span> 
+                            </a>
+                            <button type="button" class="btn btn-default">
+                                <span class="glyphicon glyphicon-remove"></span>
+                            </button>
+                        </td> 
+                        <td>PH784</td>
+                        <td>Camino 1.0</td>
+                        <td>Maquiagem.2+</td>
+                        <td>1.8</td>
+                        <td>84.55</td>
+                      </tr>
+                      
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
                     </tbody>
                     
                   </table>
@@ -574,6 +719,7 @@
               </div><!-- /.box -->
             </div><!-- /.col -->
           </div><!-- /.row -->
+<<<<<<< HEAD
 
 
 
@@ -648,6 +794,12 @@
                   </div>
 
 
+=======
+        </section><!-- /.content -->
+
+
+
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
 
       </div>
       <div class="modal-footer">
@@ -675,6 +827,36 @@
 
 
 
+
+<script>
+$(document).ready(function(){
+    $('#example1').DataTable({
+      "language": {
+            "sEmptyTable": "Nenhum registro encontrado",
+          "sInfo": "Mostrando de _START_ até _END_ de _TOTAL_ registros",
+          "sInfoEmpty": "Mostrando 0 até 0 de 0 registros",
+          "sInfoFiltered": "(Filtrados de _MAX_ registros)",
+          "sInfoPostFix": "",
+          "sInfoThousands": ".",
+          "sLengthMenu": "_MENU_ resultados por página",
+          "sLoadingRecords": "Carregando...",
+          "sProcessing": "Processando...",
+          "sZeroRecords": "Nenhum registro encontrado",
+          "sSearch": "Pesquisar",
+          "oPaginate": {
+              "sNext": "Próximo",
+              "sPrevious": "Anterior",
+              "sFirst": "Primeiro",
+              "sLast": "Último"
+          },
+          "oAria": {
+              "sSortAscending": ": Ordenar colunas de forma ascendente",
+              "sSortDescending": ": Ordenar colunas de forma descendente"
+          }
+        }
+    });
+});
+</script>
 
 <script>
 $(document).ready(function(){

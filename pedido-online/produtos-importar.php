@@ -13,6 +13,7 @@
     </ol>
   </section>
 
+<<<<<<< HEAD
 
 
 
@@ -40,6 +41,27 @@
 
 
 
+=======
+  <section class="content" style="margin-left: 10px">
+      <div class="row">          
+            <table>
+                <tr>
+                    <td>
+                       <input id="input-1" type="file">
+                       <p>&nbsp;</p>
+                       <button type="button" class="btn bg-blue">Importar </button>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+            </table>
+      </div>
+
+      <div class="row">
+          <p>&nbsp;</p>
+          <p style="font-size: 20px; font-family: comic-sans;"> Escolha um arquivo (ex: xls, xlsx.) para realizar a importação dos produtos no sistema.</p> 
+      </div>
+>>>>>>> fd9d211df8e4436f9de80e3a2329fa10280743a8
   </section>
 
 
